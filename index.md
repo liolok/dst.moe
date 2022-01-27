@@ -1,8 +1,6 @@
 # 饥荒联机私服列表
 
-Telegram 频道/交流群：https://t.me/dst_zh
-
-请进群一起玩，陌生玩家被踢被禁后果自负。
+Telegram 频道/交流群：[@dst_zh](https://t.me/dst_zh)，请进群一起玩，陌生玩家被踢被禁后果自负。
 
 ## [李皓奇](https://t.me/liolok)
 
