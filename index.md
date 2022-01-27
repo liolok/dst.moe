@@ -20,7 +20,7 @@ Telegram 频道/交流群：[@dst_zh](https://t.me/dst_zh)，请进群一起玩�
 
 ### [摸鱼的铝箔](https://dstserverlist.appspot.com/server/0484f5bf5fa655136ebdc20da47c708b00d487b7)
 
-[世界配置及 mod 详情介绍页面](./naaloh4/server-detail/)
+[世界配置及 mod 详情介绍页面](./naaloh4/server-detail.html)
 
 - 地址：`dst.kenshin.naaloh4.com`
 - 端口：`11000`
