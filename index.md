@@ -32,14 +32,14 @@ Telegram 频道/交流群：[@dst_zh](https://t.me/dst_zh)，请进群一起玩�
 
 ## [Kenshin](https://t.me/Kenshin51290)
 
-### [[Super AFK] Kenshin の 挂机房摸鱼的铝箔](https://dstserverlist.appspot.com/server/82ed8ac03b2686f8d36c125b52e447dca4d0d0b5)
+### [[Super AFK] Kenshin の 挂机房](https://dstserverlist.appspot.com/server/82ed8ac03b2686f8d36c125b52e447dca4d0d0b5)
 
-- 地址：`42.193.187.167`
+- 地址：`afk.kenshin.naaloh4.com`
 - 端口：`10999`
 
 控制台快速连接命令：
 
-`c_connect("42.193.187.167", 10999)`
+`c_connect("afk.kenshin.naaloh4.com", 10999)`
 
 ## 致谢
 
