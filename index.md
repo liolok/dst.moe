@@ -20,7 +20,7 @@ Telegram 频道/交流群：[@dst_zh](https://t.me/dst_zh)，请进群一起玩�
 
 ### [摸鱼的铝箔](https://dstserverlist.appspot.com/server/0484f5bf5fa655136ebdc20da47c708b00d487b7)
 
-[世界配置及 mod 详情介绍页面](./naaloh4/server-detail.html)
+[世界配置及 mod 详情介绍页面](./NaAlOH4/server-detail.html)
 
 - 地址：`dst.kenshin.naaloh4.com`
 - 端口：`11000`
@@ -29,6 +29,17 @@ Telegram 频道/交流群：[@dst_zh](https://t.me/dst_zh)，请进群一起玩�
 控制台快速连接命令：
 
 `c_connect("dst.kenshin.naaloh4.com", 11000, "dstzh")`
+
+## [Kenshin](https://t.me/Kenshin51290)
+
+### [[Super AFK] Kenshin の 挂机房摸鱼的铝箔](https://dstserverlist.appspot.com/server/82ed8ac03b2686f8d36c125b52e447dca4d0d0b5)
+
+- 地址：`42.193.187.167`
+- 端口：`10999`
+
+控制台快速连接命令：
+
+`c_connect("42.193.187.167", 10999)`
 
 ## 致谢
 
