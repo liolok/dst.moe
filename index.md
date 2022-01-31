@@ -4,7 +4,7 @@ Telegram 频道/交流群：[@dst_zh](https://t.me/dst_zh)，请进群一起玩�
 
 ## [李皓奇](https://t.me/liolok)
 
-### [liolok's World](https://dstserverlist.appspot.com/server/a2b55ff7cad36170d4ba5111fab841a4d6085691)
+### [李皓奇的世界](https://dstserverlist.appspot.com/server/a2b55ff7cad36170d4ba5111fab841a4d6085691)
 
 较少自燃，无 mod 纯净无尽档，广州腾讯云。
 
