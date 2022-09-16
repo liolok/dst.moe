@@ -6,7 +6,12 @@ Telegram 频道/交流群：[@dst_zh](https://t.me/dst_zh)，请进群一起玩�
 
 ### [李皓奇的世界](https://dstserverlist.appspot.com/server/a2b55ff7cad36170d4ba5111fab841a4d6085691)
 
-较少自燃，无 mod 纯净无尽档，广州腾讯云。
+纯净无尽档，世界设置改动如下：
+
+- 很少野火
+- 无草壁虎转化
+
+广州腾讯云、由 [Jamesits/docker-dst-server][1] 强力驱动。
 
 - 地址：`gz.txy.ssh.monster`
 - 端口：`10999`
@@ -15,6 +20,8 @@ Telegram 频道/交流群：[@dst_zh](https://t.me/dst_zh)，请进群一起玩�
 控制台快速连接命令：
 
 `c_connect("gz.txy.ssh.monster", 10999, "wad3")`
+
+[1]: https://github.com/Jamesits/docker-dst-server
 
 ## [铝箔](https://t.me/NaAlOH4)
 
